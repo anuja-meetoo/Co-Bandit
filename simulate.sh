@@ -24,7 +24,7 @@ consecutiveStableSlot=10
 rollingAvgWindow=10
 echo "transmit with probability $transmitProbability"
 
-rootDir="/home/vara/Seagate/simulation_final/mobility_setting/$algorithmName"
+rootDir="/home/anuja/Seagate/simulation_final/mobility_setting/$algorithmName"
 
 mkdir $rootDir
 
